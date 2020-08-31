@@ -1,0 +1,13 @@
+{
+  "name": "Ecoleta",
+  "version": "1.0.0",
+  "main": "source/server.js",
+  "scripts": {
+    "start": "node source/server.js"
+  },
+  "author": "Gabriel Nascimento",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
